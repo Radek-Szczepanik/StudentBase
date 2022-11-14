@@ -1,0 +1,11 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using StudentBase.Entities;
+global using System.Threading.Tasks;
+global using System.Collections.Generic;
+global using StudentBase.Data;
+global using Microsoft.AspNetCore.Builder;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Hosting;
+global using StudentBase.Services;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.AspNetCore.Mvc;
